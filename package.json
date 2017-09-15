@@ -1,0 +1,25 @@
+{
+  "name": "mean",
+  "version": "1.0.0",
+  "description": "Proyecto basado en curso",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OxLeon/MEAN.git"
+  },
+  "author": "0xLeon Eduardo Leon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OxLeon/MEAN/issues"
+  },
+  "homepage": "https://github.com/OxLeon/MEAN#readme",
+  "devDependencies": {
+    "express": "^4.15.4"
+  },
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}

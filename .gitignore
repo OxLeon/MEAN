@@ -1,0 +1,14 @@
+# ignore all
+*
+# Except folders
+
+
+# except files
+!.gitignore
+!package.json
+!README.md
+!*.js
+!*.json
+!*.ts
+!*.html
+!*.css
